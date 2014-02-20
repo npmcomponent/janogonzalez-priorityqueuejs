@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [janogonzalez/priorityqueuejs](http://github.com/janogonzalez/priorityqueuejs). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/janogonzalez-priorityqueuejs`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # priorityqueue.js
 
 A simple priority queue data structure for Node.js and the browser.

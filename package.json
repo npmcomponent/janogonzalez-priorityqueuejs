@@ -1,23 +1,7 @@
 {
-  "name": "priorityqueuejs",
-  "version": "0.2.0",
+  "name": "janogonzalez-priorityqueuejs",
   "description": "a simple priority queue data structure",
-  "author": "Jano González <info@janogonzalez.com>",
-  "devDependencies": {
-    "mocha": "*",
-    "expect.js": "*"
-  },
-  "readmeFilename": "README.md",
-  "main": "index.js",
-  "dependencies": {
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/janogonzalez/priorityqueuejs.git"
-  },
+  "version": "0.2.0",
   "keywords": [
     "heap",
     "priority",
@@ -25,5 +9,6 @@
     "priority queue",
     "data structure"
   ],
+  "dependencies": {},
   "license": "MIT"
 }
